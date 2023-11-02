@@ -1,0 +1,24 @@
+name: semeval_10
+channels:
+ - defaults
+dependencies:
+ - python=3.9.12
+ - pip
+ - pip:
+   - numpy
+   - pandas
+   - torch 
+   - torchvision 
+   - torchaudio
+   - transformers
+   - scikit-learn
+   - matplotlib
+   - scikit-plot
+   - nltk
+   - seaborn
+   - scikit-plot
+   - tqdm
+   - tensorflow
+   - keras
+   - keras_preprocessing
+   - xgboost

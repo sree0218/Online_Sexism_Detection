@@ -1,0 +1,23 @@
+,precision,recall,f1-score,support
+not sexist,0.7633654688869412,0.8259838786154575,0.7934411295832384,2109.0
+sexist,0.26785714285714285,0.2,0.22900763358778628,675.0
+none,0.7631578947368421,0.8250355618776671,0.7928913192071088,2109.0
+"1. threats, plans to harm and incitement",0.0,0.0,0.0,317.0
+2. derogation,0.0,0.0,0.0,62.0
+3. animosity,0.0,0.0,0.0,231.0
+4. prejudiced discussions,0.0,0.0,0.0,65.0
+1.1 threats of harm,0.0,0.0,0.0,40.0
+1.2 incitement and encouragement of harm,0.0,0.0,0.0,143.0
+2.1 descriptive attacks,0.0,0.0,0.0,51.0
+2.2 aggressive and emotive attacks,0.0,0.0,0.0,128.0
+2.3 dehumanising attacks & overt sexual objectification,0.0,0.0,0.0,50.0
+"3.1 casual use of gendered slurs, profanities, and insults",0.0,0.0,0.0,134.0
+3.2 immutable gender differences and gender stereotypes,0.0,0.0,0.0,81.0
+3.3 backhanded gendered compliments,0.0,0.0,0.0,9.0
+3.4 condescending explanations or unwelcome advice,0.0,0.0,0.0,13.0
+4.1 supporting mistreatment of individual women,0.0,0.0,0.0,15.0
+4.2 supporting systemic discrimination against women as a group,0.0,0.0,0.0,11.0
+micro avg,0.7293509320996054,0.6417624521072797,0.6827590599324884,8352.0
+macro avg,0.13462366452949617,0.14091986723565672,0.13731873312487733,8352.0
+weighted avg,0.599903941391798,0.6417624521072797,0.6195045508240031,8352.0
+samples avg,0.6741499042145594,0.6417624521072797,0.6498682950191571,8352.0
